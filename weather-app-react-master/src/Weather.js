@@ -73,6 +73,13 @@ export default function Weather() {
             <div className="weather-forecast" id="forecast"></div>
           </div>
         </div>
+        <br />
+        <p>
+          <a href="https://github.com/egroenendijk/SheCodes-React-homework-week-4">
+            Open-source code
+          </a>
+          , by Eva Groenendijk
+        </p>
       </div>
     </div>
   );
